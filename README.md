@@ -18,21 +18,21 @@ In collaboration with Autoss Ltd. (Vietnam) and ThinkAlpha Ltd. (Vietnam)
 
 ### Presentation
 
-![Slide 1](Slide1.png)
+![Slide 1](images/Slide1.png)
 
-![Slide 2](Slide2.png)
+![Slide 2](images/Slide2.png)
 
-![Slide 3](Slide3.png)
+![Slide 3](images/Slide3.png)
 
-![Slide 4](Slide4.png)
+![Slide 4](images/Slide4.png)
 
-![Slide 5](Slide5.png)
+![Slide 5](images/Slide5.png)
 
-![Slide 6](Slide6.png)
+![Slide 6](images/Slide6.png)
 
-![Slide 7](Slide7.png)
+![Slide 7](images/Slide7.png)
 
-![Slide 8](Slide8.png)
+![Slide 8](images/Slide8.png)
 
 
 
